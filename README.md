@@ -11,8 +11,8 @@ Simple and interactive feedback
 
 ## 📸 Screenshots
 
-![Home Page]<img width="1360" height="615" alt="Screenshot_5" src="https://github.com/user-attachments/assets/df3df583-6883-4cb9-a4f4-0cb5be8afe59" />
+<img width="1360" height="615" alt="Screenshot_5" src="https://github.com/user-attachments/assets/fae14adb-b44f-4e4f-827e-8dab0feb5d3d" />
 
-![Home Page]<img width="1359" height="583" alt="Screenshot_1" src="https://github.com/user-attachments/assets/1703cec6-5c20-477f-8d0e-ec370cd2c4c0" />
+<img width="1359" height="583" alt="Screenshot_1" src="https://github.com/user-attachments/assets/a754b8e1-d9d7-4691-9d08-ee23138e6c51" />
 
 
